@@ -6,7 +6,7 @@ WeBid is an Advanced Interactive PHP & MySQL Database Driven auction script. Our
 It is recommended that you review all information contained in this manual prior to installing WeBid.
 
 Terms and Symbols
------------------
+=================
 
 Terms and Symbols as used in this manual:
 
