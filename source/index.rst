@@ -10,9 +10,10 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   
+
    installation
    upgrade
+    admin/index
 
 
 
@@ -22,4 +23,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
